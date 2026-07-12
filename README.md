@@ -1,47 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=220&section=header&text=Rishi%20Chowdary&fontSize=55&fontAlignY=35&animation=twinkling&fontColor=E8E0FF&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=55&descSize=18&descColor=C4B5FD" width="100%" />
-</p>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=80&lines=Building+Scalable+Enterprise+Applications;Architecting+Full+Stack+Solutions;Engineering+Production-Grade+Systems" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/📍_Andhra_Pradesh,_India-1a1b27?style=flat-square&labelColor=1a1b27" />
-  <img src="https://img.shields.io/badge/🎓_B.Tech_CSE-1a1b27?style=flat-square&labelColor=1a1b27" />
-  <img src="https://img.shields.io/badge/💼_Java_Full_Stack_Developer-1a1b27?style=flat-square&labelColor=1a1b27" />
-</p>
-
-<p align="center">
-  <a href="mailto:rishichowdary2099@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/immortal4728/">
-    <img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/immortal4728">
-    <img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://farmlink-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-5B21B6?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=immortal4728&style=flat-square&color=8B5CF6&label=Profile+Views" />
-  <a href="https://github.com/immortal4728?tab=followers">
-    <img src="https://img.shields.io/github/followers/immortal4728?style=flat-square&color=7C3AED&labelColor=1a1b27&label=Followers" />
-  </a>
-  <a href="https://github.com/immortal4728?tab=repositories">
-    <img src="https://img.shields.io/github/stars/immortal4728?style=flat-square&color=6D28D9&labelColor=1a1b27&label=Stars" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="light.svg">
+    <img alt="Rishi Chowdary" src="dark.svg" width="100%">
+  </picture>
 </p>
 
 <br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
 
