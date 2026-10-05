@@ -238,8 +238,12 @@ open_to:
 <br/>
 
 <details>
-<summary><b>📜 Verified Certificate & Credentials</b></summary>
+<summary><b>📜 Verified Certificate (Click to View Image)</b></summary>
 <br/>
+
+<p align="center">
+  <img src="./assets/ripan-certificate.png" width="95%" alt="Ripan Technologies Certificate" />
+</p>
 
 | Credential | Verification Details |
 |------------|----------------------|
@@ -266,8 +270,12 @@ open_to:
 <br/>
 
 <details>
-<summary><b>📜 Verified Certificate & Credentials</b></summary>
+<summary><b>📜 Verified Certificate (Click to View Image)</b></summary>
 <br/>
+
+<p align="center">
+  <img src="./assets/vaultofcodes-certificate.png" width="95%" alt="VaultofCodes.in Certificate" />
+</p>
 
 | Credential | Verification Details |
 |------------|----------------------|
