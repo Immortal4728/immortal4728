@@ -14,17 +14,7 @@
   <img src="https://img.shields.io/badge/💼_Java_Full_Stack_Developer-1a1b27?style=flat-square&labelColor=1a1b27" />
 </p>
 
-<p align="center">
-  <a href="mailto:rishichowdary2099@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/immortal4728/">
-    <img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://rishi-chowdary.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-5B21B6?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=immortal4728&style=flat-square&color=8B5CF6&label=Profile+Views" />
@@ -245,6 +235,20 @@ open_to:
 
 `Full Stack` `Web Development` `React` `JavaScript` `REST API`
 
+<br/>
+
+<details>
+<summary><b>📜 Verified Certificate & Credentials</b></summary>
+<br/>
+
+| Credential | Verification Details |
+|------------|----------------------|
+| **Intern ID** | `RW2504S068` |
+| **Verification Link** | [🌐 verify.ripan.space](https://verify.ripan.space) |
+| **Recognized By** | Executive Director, AICTE & MSME |
+
+</details>
+
 </td>
 </tr>
 <tr>
@@ -258,6 +262,19 @@ open_to:
 - Delivered assigned modules within deadlines maintaining quality standards
 
 `Java` `OOP` `Data Structures` `Application Development`
+
+<br/>
+
+<details>
+<summary><b>📜 Verified Certificate & Credentials</b></summary>
+<br/>
+
+| Credential | Verification Details |
+|------------|----------------------|
+| **AICTE Corporate ID** | `CORPORATE6511252d7c3271695622445` |
+| **Recognized By** | Google for Education Partner & AICTE |
+
+</details>
 
 </td>
 </tr>
