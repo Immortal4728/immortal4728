@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=80&lines=Building+Scalable+Enterprise+Applications;Architecting+Full+Stack+Solutions;Engineering+Production-Grade+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=80&lines=Architecting+Full+Stack+Solutions;Engineering+Production-Grade+Systems" alt="Typing SVG" />
   </a>
 </p>
 
@@ -21,10 +21,7 @@
   <a href="https://www.linkedin.com/in/immortal4728/">
     <img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/immortal4728">
-    <img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://farmlink-portfolio.vercel.app">
+  <a href="https://rishi-chowdary.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-5B21B6?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
@@ -64,8 +61,10 @@ engineering_philosophy: >
   solve real-world problems with precision and performance.
 
 currently_building:
-  - FarmLink Marketplace — Full-stack agricultural commerce platform
+  - HUSH — Zero-Persistence Ephemeral Communication Engine
   - Project Immortal — Enterprise user management & admin dashboard
+  - AnimeOn — Modern anime streaming & discovery platform
+  - AtlasKV — High-performance Key-Value storage engine
 
 open_to:
   - Full Stack & Backend Collaboration
@@ -84,7 +83,7 @@ open_to:
 ### Languages
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,javascript,typescript,python,c&theme=dark&perline=5" />
+    <img src="https://skillicons.dev/icons?i=java,typescript,python&theme=dark&perline=5" />
   </a>
 </p>
 
@@ -126,76 +125,89 @@ open_to:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🧠 AI / ML Expertise
-
-<table align="center">
-<tr>
-<th>Domain</th>
-<th>Technologies</th>
-<th>Proficiency</th>
-<th>Details</th>
-</tr>
-<tr>
-<td>Machine Learning</td>
-<td>Scikit-learn, NumPy, Pandas</td>
-<td>🟢 Intermediate</td>
-<td>Classification, Regression, Data Pipelines</td>
-</tr>
-<tr>
-<td>Deep Learning</td>
-<td>TensorFlow, Keras</td>
-<td>🟡 Learning</td>
-<td>Neural Networks, CNN fundamentals</td>
-</tr>
-<tr>
-<td>NLP</td>
-<td>NLTK, Transformers</td>
-<td>🟡 Exploring</td>
-<td>Text Processing, Sentiment Analysis</td>
-</tr>
-<tr>
-<td>AI Integration</td>
-<td>OpenAI API, LangChain</td>
-<td>🟢 Intermediate</td>
-<td>LLM-powered applications, Prompt Engineering</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 ## 🚀 Featured Projects
 
 <details>
-<summary><b>🌾 FarmLink Marketplace System</b></summary>
+<summary><b>✨ Rishi Chowdary — Cinematic Developer Portfolio</b></summary>
 <br/>
 
-> A full-stack agricultural commerce platform connecting farmers directly with buyers, eliminating middlemen and enabling transparent, fair-price transactions.
+> An award-winning, interactive digital portfolio experience built with modern web technologies, showcasing a refined minimalist aesthetic with sophisticated animations and high-end interactions.
 
 | Attribute | Details |
 |-----------|---------|
-| **Stack** | `React` `Spring Boot` `PostgreSQL` `REST API` `TailwindCSS` |
-| **Scale** | Multi-role platform supporting Farmers, Buyers, and Admin users |
-| **Performance** | Optimized queries, lazy loading, responsive SPA architecture |
-| **Security** | JWT authentication, role-based access control, input validation |
-| **Impact** | Streamlines agricultural supply chain, enabling direct farmer-buyer commerce |
-| **Repository** | [🔗 View on GitHub](https://github.com/immortal4728) &nbsp; [🌐 Live Demo](https://farmlink-portfolio.vercel.app) |
+| **Stack** | `Next.js (App Router)` `TypeScript (97.7%)` `TailwindCSS` `GSAP` `Framer Motion` `Lucide React` |
+| **UX & Micro-Interactions** | Custom-built smooth scroll, precise cursor interactions (`CustomCursor.tsx`), and a cinematic pre-loader sequence (`LoadingScreen.tsx`) |
+| **Animations & Visuals** | Scroll-driven entrance micro-animations powered by GSAP & Framer Motion with Outfit typography and curated minimal palette |
+| **Dynamic Showcases** | Interactive `PolaroidSection` and responsive multi-column project showcase layout with interactive media components |
+| **Live Demo** | [🌐 Live Demo](https://rishi-chowdary.vercel.app/) |
 
 </details>
 
 <details>
-<summary><b>⚡ Project Immortal</b></summary>
+<summary><b>🤫 HUSH — Ephemeral Anonymous Communication Engine</b></summary>
 <br/>
 
-> An enterprise-grade full-stack platform built for user management, admin dashboards, and comprehensive platform operations with production-ready architecture.
+> A high-throughput, zero-persistence ephemeral chat platform built on Java 21 & WebSockets — "Conversations should be like whispers in the dark — once spoken, they fade into nothingness."
 
 | Attribute | Details |
 |-----------|---------|
-| **Stack** | `Spring Boot` `React` `PostgreSQL` `REST API` `TailwindCSS` |
-| **Scale** | Enterprise user management with admin/user role hierarchy |
-| **Performance** | Efficient database design, optimized API responses, SPA with code splitting |
-| **Security** | Session management, RBAC, CSRF protection, secure authentication flows |
-| **Impact** | Production-ready admin dashboard with complete CRUD operations and analytics |
-| **Repository** | [🔗 View on GitHub](https://github.com/immortal4728) &nbsp; [🌐 Live Demo](https://project-immortal.vercel.app/) |
+| **Stack** | `Java 21` `Spring Boot 3.2` `Spring WebSocket` `React 18` `TypeScript 5` `Vite` `Vanilla CSS` |
+| **Zero Persistence** | 100% Volatile JVM RAM storage with ZERO database connections; message payloads & room states auto-destruct |
+| **Matchmaking** | Atomic, lock-free queue pairing engine with sub-millisecond race-free Stranger matching and one-click re-pairing |
+| **Dual Engine UI** | Hot-swappable viewports mid-chat between Modern Messaging UI and Retro VHS Cyberpunk CRT Terminal |
+| **Observability** | Lock-free atomic counters (`LongAdder`) capturing active connections, throughput, and JVM metrics without disk logging |
+| **Repository** | [🔗 View on GitHub](https://github.com/Immortal4728/Hush) &nbsp; [🌐 Live Demo](https://hush-chatrooms.vercel.app/) |
+
+</details>
+
+<details>
+<summary><b>⚡ Project Immortal — Engineering Ideas Into Real Software</b></summary>
+<br/>
+
+> A full-stack project management platform built for engineering students, administrators, and employees to collaborate on final-year and production-grade software projects.
+
+| Attribute | Details |
+|-----------|---------|
+| **Stack** | `Next.js 16` `React 19` `TypeScript` `TailwindCSS v4` `Firebase Auth` `InsForge` `PostgreSQL` `Three.js` |
+| **Architecture** | Multi-role platform (Students, Admins, Employees) with project submission intake & approval workflows |
+| **Frontend & UI** | App Router, SSR, Framer Motion transitions, Recharts analytics, 3D WebGL via React Three Fiber |
+| **Backend & Services** | InsForge BaaS (PostgreSQL, Functions, Storage), Firebase Admin SDK token verification, Nodemailer |
+| **Security** | Role-Based Access Control (RBAC), bcrypt.js password hashing, JWT authorization, isolated DB schema |
+| **Repository** | [🔗 View on GitHub](https://github.com/Immortal4728/Project-Immortal) &nbsp; [🌐 Live Demo](https://project-immortal.vercel.app/) |
+
+</details>
+
+<details>
+<summary><b>🌌 Anime On — Retro Personal Media Shelf</b></summary>
+<br/>
+
+> A minimalist, retro-futuristic personal media shelf designed for tracking anime, movies, K-dramas, web series, books, games, and links — without social noise, rating wars, or algorithmic feeds.
+
+| Attribute | Details |
+|-----------|---------|
+| **Stack** | `React 18` `TypeScript` `Vite` `TanStack Router` `TailwindCSS` `Firebase` `Cloud Firestore` `Supabase` |
+| **Media Vault** | Unified tracking dashboard with category-tailored card views (Books, Movies, K-Dramas, Games, Anime) |
+| **Design System** | Dynamic Cyberpunk Theme Engine supporting custom persistent neon palettes (Neon Pink, Cyber Purple, etc.) |
+| **Performance** | Mobile-first 2-to-6 column grid, instant real-time title search, watching/completed status toggles |
+| **Security & Admin** | Account-isolated media vault bound to Auth UID, zero social noise, dedicated Admin Analytics gateway |
+| **Repository** | [🔗 View on GitHub](https://github.com/Immortal4728/AnimeOn) &nbsp; [🌐 Live Demo](https://anime-on-kappa.vercel.app/) |
+
+</details>
+
+<details>
+<summary><b>🗄️ AtlasKV — Distributed Strongly Consistent Key-Value Store</b></summary>
+<br/>
+
+> A high-performance, fault-tolerant distributed key-value store built in Java 21 on the Raft consensus algorithm from first principles without heavy third-party frameworks.
+
+| Attribute | Details |
+|-----------|---------|
+| **Stack** | `Java 21` `Raft Consensus` `Spring Boot` `Next.js 16` `TypeScript SDK` `Java SDK` |
+| **Core Engine** | Strong consistency, linearizable reads (ReadIndex), atomic Compare-And-Swap (CAS), distributed TTL leases |
+| **Advanced Features** | Revision history with point-in-time rollbacks, real-time SSE streams, non-blocking Joint Consensus reconfigurations |
+| **Ecosystem** | Feature-complete CLI, official Java & TypeScript SDKs, and AtlasKV Studio Next.js 16 management console |
+| **Impact** | Zero-data-loss distributed consensus storage engine designed for low-latency backend infrastructure |
+| **Repository** | [🔗 View on GitHub](https://github.com/Immortal4728/AtlasKV) &nbsp; [🌐 Live Demo](https://atlas-kv.vercel.app/) |
 
 </details>
 
@@ -212,7 +224,7 @@ open_to:
 | **Performance** | Client-side GPA computation, efficient resource categorization |
 | **Security** | Input sanitization, structured data access |
 | **Impact** | Centralizes fragmented academic resources for engineering students |
-| **Repository** | [🔗 View on GitHub](https://github.com/immortal4728) |
+| **Repository** | [🔗 View on GitHub](https://github.com/Immortal4728/Jntuk-student-library) &nbsp; [🌐 Live Demo](https://jntuk-student-library.vercel.app/) |
 
 </details>
 
@@ -224,15 +236,28 @@ open_to:
 <tr>
 <td>
 
-### 🏢 Full Stack Developer — Personal & Academic Projects
-**2023 — Present**
+### 🏢 Full Stack Web Development Intern — Ripan Technologies
+**Apr 2025 — May 2025**
 
-- Designed and built production-grade web applications using Spring Boot, React, and PostgreSQL
-- Engineered RESTful APIs with proper authentication, authorization, and error handling
-- Implemented responsive frontends with modern UI/UX principles
-- Managed database schema design, migrations, and query optimization
+- Contributed to real-world full-stack application development projects
+- Utilized modern web technologies to build and maintain scalable applications
+- Collaborated with development teams ensuring quality code contributions
 
-`Java` `Spring Boot` `React` `PostgreSQL` `REST API` `Git` `Linux`
+`Full Stack` `Web Development` `React` `JavaScript` `REST API`
+
+</td>
+</tr>
+<tr>
+<td>
+
+### ☕ Java Programming Intern — VaultofCodes.in
+**May 2025 — Jun 2025**
+
+- Completed internship focused on Java programming and application development
+- Strengthened debugging and problem-solving skills through coding assignments
+- Delivered assigned modules within deadlines maintaining quality standards
+
+`Java` `OOP` `Data Structures` `Application Development`
 
 </td>
 </tr>
@@ -240,136 +265,40 @@ open_to:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🏅 Achievements
-
-<table align="center">
-<tr>
-<th>Recognition</th>
-<th>Details</th>
-</tr>
-<tr>
-<td>🏆 Full Stack Project Deployment</td>
-<td>Successfully deployed multiple production applications on Vercel</td>
-</tr>
-<tr>
-<td>📈 Consistent GitHub Activity</td>
-<td>Maintaining daily contributions and continuous project development</td>
-</tr>
-<tr>
-<td>🎯 Problem Solving</td>
-<td>Active DSA practice across competitive programming platforms</td>
-</tr>
-<tr>
-<td>🌐 Open Source Mindset</td>
-<td>Building projects with public repositories and clean documentation</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 📜 Certifications
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner_Essentials-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-Java_Fundamentals-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/NPTEL-Programming_in_Java-1a73e8?style=for-the-badge&logo=google-scholar&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cisco-Networking_Essentials-049FD9?style=for-the-badge&logo=cisco&logoColor=white" />
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 💻 Coding Profiles
+## 🧩 LeetCode Live Stats
 
 <p align="center">
   <a href="https://leetcode.com/u/immortal4728/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="35" />
+    <img width="100%" src="https://leetcode-stats-six.vercel.app/api?username=immortal4728&theme=light" alt="LeetCode Live Stats" />
   </a>
-  &nbsp;
-  <a href="https://www.geeksforgeeks.org/user/immortal4728/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" height="35" />
-  </a>
-  &nbsp;
-  <a href="https://www.hackerrank.com/profile/immortal4728">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" height="35" />
-  </a>
-  &nbsp;
-  <a href="https://www.codechef.com/users/immortal4728">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" height="35" />
-  </a>
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <a href="https://github.com/immortal4728">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=immortal4728&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&ring_color=7C3AED&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=immortal4728&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&langs_count=8" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/immortal4728">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=immortal4728&theme=midnight-purple&hide_border=true&background=0D1117&stroke=7C3AED&ring=A78BFA&fire=8B5CF6&currStreakLabel=C4B5FD&sideLabels=C4B5FD&currStreakNum=E8E0FF&sideNums=E8E0FF&dates=6D28D9" width="49%" />
-  </a>
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=immortal4728&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" width="100%" />
-  </a>
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <a href="https://github.com/immortal4728">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=immortal4728&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&area_color=7C3AED&hide_border=true&custom_title=Contribution%20Graph" width="100%" />
-  </a>
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/immortal4728/immortal4728/output/github-snake-dark.svg" alt="Snake animation" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🎯 Current Focus
 
-```yaml
-learning:
-  - Advanced Spring Boot Patterns & Microservices Architecture
-  - System Design & Distributed Systems
-  - Cloud-Native Development (AWS / Docker)
-  - Advanced DSA & Competitive Programming
+**learning:**  
+- Java & Backend Development  
+- Data Structures & Algorithms  
+- SQL & Database Fundamentals  
+- System Design & Software Architecture  
 
-building:
-  - FarmLink Marketplace — Agricultural commerce at scale
-  - Project Immortal — Enterprise admin platform
-  - Open source tools & developer utilities
+**building:**  
+- Project Immortal — Full-Stack Project Workflow Management Platform  
+- Full-Stack & Backend Projects  
+- Open Source & Developer Tools  
 
-exploring:
-  - AI/ML Integration in Full Stack Applications
-  - DevOps Pipelines & CI/CD Automation
-  - Event-Driven Architecture & Message Queues
+**exploring:**  
+- Spring Boot & REST API Development  
+- Cloud & Deployment  
+- AI-Assisted Software Development  
+- Backend Architecture & Scalable Applications  
 
-open_to:
-  - Full Stack & Backend Engineering Roles
-  - Open Source Collaboration
-  - System Design & Architecture Discussions
-  - Technical Mentorship Opportunities
-```
+**open_to:**  
+- Software Development & Backend Engineering Roles  
+- Full-Stack Development Opportunities  
+- Open Source Collaboration  
+- Technical Discussions & Learning Opportunities
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -384,11 +313,7 @@ open_to:
     <img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
   </a>
   &nbsp;
-  <a href="https://github.com/immortal4728">
-    <img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white" height="35" />
-  </a>
-  &nbsp;
-  <a href="https://farmlink-portfolio.vercel.app">
+  <a href="https://rishi-chowdary.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-5B21B6?style=for-the-badge&logo=vercel&logoColor=white" height="35" />
   </a>
 </p>
